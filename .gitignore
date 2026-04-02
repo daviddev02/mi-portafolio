@@ -1,0 +1,16 @@
+# Archivos de entorno (contraseñas, API keys)
+.env
+
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de compilación
+dist/
+build/
